@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "KresV3",
+    "slug": "KresV3",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
